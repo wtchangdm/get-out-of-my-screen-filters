@@ -1,0 +1,9 @@
+! Homepage: https://github.com/wtchangdm/get-out-of-my-screen-filters
+! Title: wtchangdm's general filters
+! Expires: 5 days
+! License: https://github.com/wtchangdm/get-out-of-my-screen-filters/blob/main/LICENSE
+
+! ## News sites
+||ad.ettoday.net^
+ettoday.net###abp3
+ettoday.net##.ab790
