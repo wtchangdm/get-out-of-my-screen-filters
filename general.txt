@@ -7,3 +7,8 @@
 ||ad.ettoday.net^
 ettoday.net###abp3
 ettoday.net##.ab790
+techbang.com###crazy_ad_big
+techbang.com###crazy_ad_small
+techbang.com##.article > .content-top
+techbang.com##.google-dfp
+techbang.com##.top-3-text.inner
