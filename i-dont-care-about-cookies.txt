@@ -1,0 +1,6 @@
+! Homepage: https://github.com/wtchangdm/get-out-of-my-screen-filters
+! Title: wtchangdm's "I don't care about cookies" filters
+! Expires: 5 days
+! License: https://github.com/wtchangdm/get-out-of-my-screen-filters/blob/main/LICENSE
+
+pansci.asia##.pan-notibar-wrap
