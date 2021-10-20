@@ -3,6 +3,7 @@
 ! Expires: 5 days
 ! License: https://github.com/wtchangdm/get-out-of-my-screen-filters/blob/main/LICENSE
 
+! General ads
 ||ad.ettoday.net^
 ettoday.net###abp3
 ettoday.net##.ab790
@@ -13,4 +14,12 @@ techbang.com##.google-dfp
 techbang.com##.top-3-text.inner
 techbang.com##.techbang_i_m_970x250_1
 techbang.com##.techbang_inline_640x360
+
+! Notification Window
 ltn.com.tw##.softPush_notification
+
+! Idle pop-ups
+wealth.com.tw###idle_modal
+
+! Cookies pop-ups
+pansci.asia##.pan-notibar-wrap
