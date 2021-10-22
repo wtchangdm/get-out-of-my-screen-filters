@@ -20,6 +20,7 @@ wealth.com.tw##.top_ads_box
 ltn.com.tw##.softPush_notification
 
 ! Idle pop-ups
+news.pts.org.tw##.idle-modal
 wealth.com.tw###idle_modal
 
 ! Cookies pop-ups
