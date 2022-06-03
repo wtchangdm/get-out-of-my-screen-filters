@@ -5,6 +5,7 @@
 
 ! General ads
 ||ad.ettoday.net^
+cw.com.tw##.ad
 ettoday.net###abp3
 ettoday.net##.ab790
 techbang.com###crazy_ad_big
