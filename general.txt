@@ -18,6 +18,9 @@ techbang.com##.techbang_inline_640x360
 www.thenewslens.com##.ad-section
 wealth.com.tw##.top_ads_box
 
+! Third Party ads
+||ad2iction.com^$third-party
+
 ! Notification Window
 ltn.com.tw##.softPush_notification
 
