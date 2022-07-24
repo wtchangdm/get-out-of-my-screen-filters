@@ -8,6 +8,7 @@
 cw.com.tw##.ad
 ettoday.net###abp3
 ettoday.net##.ab790
+inoreader.com##.leaderboard_ad
 pansci.asia##.ad-container
 techbang.com###crazy_ad_big
 techbang.com###crazy_ad_small
