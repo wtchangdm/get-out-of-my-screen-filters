@@ -5,6 +5,7 @@
 
 ! General ads
 ||ad.ettoday.net^
+ctee.com.tw##.ad-h250
 cw.com.tw##.ad
 ettoday.net###abp3
 ettoday.net##.ab790
