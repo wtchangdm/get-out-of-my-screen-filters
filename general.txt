@@ -27,7 +27,8 @@ wealth.com.tw##.top_ads_box
 ! Notification Window
 ltn.com.tw##.softPush_notification
 
-! Idle pop-ups
+! Pop-ups
+||ltn.com.tw/js/fb_mask.js
 news.pts.org.tw##.idle-modal
 wealth.com.tw###idle_modal
 
