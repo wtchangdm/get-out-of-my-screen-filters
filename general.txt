@@ -7,9 +7,9 @@
 ||ad.ettoday.net^
 ctee.com.tw##.ad-h250
 cw.com.tw##.ad
+||ettoday.net/ad/
 ettoday.net##.ad_in_news
-ettoday.net###abp3
-ettoday.net##.ab790
+ettoday.net##[id^="abp"]
 inoreader.com##.leaderboard_ad
 pansci.asia##.ad-container
 techbang.com###crazy_ad_big
@@ -30,6 +30,7 @@ ltn.com.tw##.softPush_notification
 
 ! Pop-ups
 ||ltn.com.tw/js/fb_mask.js
+ettoday.net##.et_push_notification
 www.managertoday.com.tw##.IdleBox
 news.pts.org.tw##.idle-modal
 wealth.com.tw###idle_modal
