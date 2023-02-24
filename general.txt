@@ -35,6 +35,7 @@ ltn.com.tw##.softPush_notification
 ettoday.net##.et_push_notification
 www.managertoday.com.tw##.IdleBox
 news.pts.org.tw###idleContainer
+news.pts.org.tw###idleModal
 wealth.com.tw###idle_modal
 
 ! Cookies pop-ups
