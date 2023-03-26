@@ -46,4 +46,8 @@ news.pts.org.tw##.cookie-flex
 ! cnyes
 ||player.svc.litv.tv^$script,domain=cnyes.com
 ||cimg.cnyes.cool/prod/adContent/$domain=cnyes.com
-news.cnyes.com##._1GCLL
+cnyes.com##div.dfp-detail-top-container
+cnyes.com##div.dfp-top-banner-container
+cnyes.com##div.theme-row-native-ad
+cnyes.com##div[id^="div-gpt-ad-"]
+cnyes.com##div[itemprop="articleBody"] > div:has(a[href^="http://bit.ly"])
