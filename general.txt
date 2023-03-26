@@ -39,6 +39,11 @@ news.pts.org.tw###idleModal
 wealth.com.tw###idle_modal
 
 ! Cookies pop-ups
-news.cnyes.com##._1GCLL
 pansci.asia##.pan-notibar-wrap
 news.pts.org.tw##.cookie-flex
+
+
+! cnyes
+||player.svc.litv.tv^$script,domain=cnyes.com
+||cimg.cnyes.cool/prod/adContent/$domain=cnyes.com
+news.cnyes.com##._1GCLL
