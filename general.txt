@@ -12,6 +12,8 @@ ettoday.net##.ad_in_news
 ettoday.net##[id^="abp"]
 inoreader.com##.leaderboard_ad
 mobile01.com##a[href^="adredir"]
+tw.nextapple.com###lrec01
+tw.nextapple.com##.na-ad-pc
 pansci.asia##.ad-container
 techbang.com###crazy_ad_big
 techbang.com###crazy_ad_small
