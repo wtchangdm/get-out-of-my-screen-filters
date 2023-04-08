@@ -4,12 +4,13 @@
 ! License: https://github.com/wtchangdm/get-out-of-my-screen-filters/blob/main/LICENSE
 
 ! General ads
-||ad.ettoday.net^
 ctee.com.tw##.ad-h250
 cw.com.tw##.ad
 ||ettoday.net/ad/
+||ad.ettoday.net^
 ettoday.net##.ad_in_news
 ettoday.net##[id^="abp"]
+ettoday.net##.et_ad_group_1
 inoreader.com##.leaderboard_ad
 mobile01.com##a[href^="adredir"]
 tw.nextapple.com###lrec01
