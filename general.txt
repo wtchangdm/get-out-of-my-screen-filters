@@ -13,8 +13,6 @@ ettoday.net##[id^="abp"]
 ettoday.net##.et_ad_group_1
 inoreader.com##.leaderboard_ad
 mobile01.com##a[href^="adredir"]
-tw.nextapple.com###lrec01
-tw.nextapple.com##.na-ad-pc
 pansci.asia##.ad-container
 techbang.com###crazy_ad_big
 techbang.com###crazy_ad_small
@@ -54,3 +52,10 @@ cnyes.com##div.dfp-top-banner-container
 cnyes.com##div.theme-row-native-ad
 cnyes.com##div[id^="div-gpt-ad-"]
 cnyes.com##div[itemprop="articleBody"] > div:has(a[href^="http://bit.ly"])
+
+! nextapple
+tw.nextapple.com###lrec01
+tw.nextapple.com##.na-ad-pc
+tw.nextapple.com###sponsored
+tw.nextapple.com##.sponsor_bottom
+tw.nextapple.com##.sponsored_popup
