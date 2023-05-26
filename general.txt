@@ -14,6 +14,9 @@ ettoday.net##.et_ad_group_1
 inoreader.com##.leaderboard_ad
 mobile01.com##a[href^="adredir"]
 pansci.asia##.ad-container
+www.storm.mg##.article_ads
+www.storm.mg##.storm_ad_h250
+www.storm.mg##[data-addom="storm_ad_wrapper"]
 techbang.com###crazy_ad_big
 techbang.com###crazy_ad_small
 techbang.com##.article > .content-top
