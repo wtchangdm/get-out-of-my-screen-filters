@@ -31,11 +31,11 @@ tw.dictionary.search.yahoo.com##.sys_dict_native_ads
 ! Third Party ads
 ||ad2iction.com^$third-party
 
-! Notification Window
-ltn.com.tw##.softPush_notification
-
 ! Pop-ups
 ||ltn.com.tw/js/fb_mask.js
+ltn.com.tw##.adHeight90
+ltn.com.tw##.adHeight250
+ltn.com.tw##.softPush_notification
 ettoday.net##.et_push_notification
 www.managertoday.com.tw##.IdleBox
 news.pts.org.tw###idleContainer
