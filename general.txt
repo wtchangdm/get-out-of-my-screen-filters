@@ -7,10 +7,17 @@
 ctee.com.tw##.ad-h250
 cw.com.tw##.ad
 ||ettoday.net/ad/
+||ettoday.net/ads.php
 ||ad.ettoday.net^
 ettoday.net##.ad_in_news
 ettoday.net##[id^="abp"]
 ettoday.net##.et_ad_group_1
+ettoday.net###finance_text_1
+ettoday.net##[class^="text_ad"]
+ettoday.net##[class^="ad_txt"]
+ettoday.net##.ad_in_news
+ettoday.net###all_300x600_2
+ettoday.net##.idleAd
 inoreader.com##.leaderboard_ad
 mobile01.com##a[href^="adredir"]
 pansci.asia##.ad-container
