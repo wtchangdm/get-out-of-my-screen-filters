@@ -1,6 +1,7 @@
 0.0.0.0 ad.ettoday.net
 0.0.0.0 ad2iction.com
 0.0.0.0 adc.tamedia.com.tw
+0.0.0.0 analytics.adjust.com
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 c.msn.com
 0.0.0.0 msn.cn
