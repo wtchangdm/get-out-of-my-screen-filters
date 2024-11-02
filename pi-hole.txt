@@ -1,4 +1,5 @@
 0.0.0.0 ad.ettoday.net
+0.0.0.0 adapi.mitake.com.tw
 0.0.0.0 ad2iction.com
 0.0.0.0 adc.tamedia.com.tw
 0.0.0.0 analytics.adjust.com
