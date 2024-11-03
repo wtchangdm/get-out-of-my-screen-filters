@@ -4,6 +4,7 @@
 ||adapi.mitake.com.tw^
 ||adc.tamedia.com.tw^
 ||adjust.net.in^
+||adjust.world^
 ||gga.whoscall.com^
 ||kimieno.cc^
 ||lan.line.me^
