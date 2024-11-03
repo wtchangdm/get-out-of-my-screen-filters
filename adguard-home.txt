@@ -6,6 +6,7 @@
 ||adjust.net.in^
 ||adjust.world^
 ||gga.whoscall.com^
+||ggp.whoscall.com^
 ||kimieno.cc^
 ||lan.line.me^
 ||log-collector.shopee.tw^
