@@ -1,16 +1,9 @@
 ||a.line.me.akadns.net^
 ||a.line.me^
 ||ad.ettoday.net^
-||ad.line-scdn.net^
-||ad2iction.com^
 ||adapi.mitake.com.tw^
 ||adc.tamedia.com.tw^
-||ads.linkedin.com^
-||ads.vungle.com^
-||analytics.adjust.com^
-||app-analytics-services.com^
-||browser.events.data.msn.com^
-||c.msn.com^
+||adjust.net.in^
 ||gga.whoscall.com^
 ||kimieno.cc^
 ||lan.line.me^
@@ -18,5 +11,4 @@
 ||msn.cn^
 ||ntp.msn.com^
 ||self.events.data.microsoft.com^
-||slackb.com^
 ||tracking.shopee.tw^
