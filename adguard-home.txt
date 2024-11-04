@@ -12,6 +12,7 @@
 ||lan.line.me^
 ||log-collector.shopee.tw^
 ||logs.netflix.com^
+||logs.dradis.netflix.com^
 ||msn.cn^
 ||ntp.msn.com^
 ||self.events.data.microsoft.com^
