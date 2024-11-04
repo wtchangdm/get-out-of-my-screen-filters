@@ -6,6 +6,7 @@
 ||adjust.net.in^
 ||adjust.world^
 ||analytics.immersivetranslate.com^
+||analytics.twitter.com^
 ||gga.whoscall.com^
 ||ggp.whoscall.com^
 ||kimieno.cc^
