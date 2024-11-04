@@ -11,6 +11,7 @@
 ||gga.whoscall.com^
 ||ggp.whoscall.com^
 ||kimieno.cc^
+||kdpic.pchome.com.tw^
 ||lan.line.me^
 ||log-collector.shopee.tw^
 ||logs.netflix.com^
