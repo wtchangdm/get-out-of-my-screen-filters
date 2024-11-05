@@ -19,4 +19,5 @@
 ||msn.cn^
 ||ntp.msn.com^
 ||self.events.data.microsoft.com^
+||telemetry.zoom.us^
 ||tracking.shopee.tw^
