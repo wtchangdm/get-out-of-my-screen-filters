@@ -7,6 +7,7 @@
 ||adjust.world^
 ||analytics.immersivetranslate.com^
 ||analytics.twitter.com^
+||api.mac-stats.com^
 ||app-ads-services.com^
 ||bytedance.com^
 ||bytegoofy.com^
