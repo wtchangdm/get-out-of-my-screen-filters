@@ -1,2 +1,2 @@
 #! /bin/bash
-sort -u -o adguard-home.txt{,}
+sort -u -o pi-hole.txt{,}

@@ -9,6 +9,7 @@
 ||analytics.twitter.com^
 ||api.mac-stats.com^
 ||app-ads-services.com^
+||appsflyersdk.com^
 ||bytedance.com^
 ||bytegoofy.com^
 ||byteimg.com^
