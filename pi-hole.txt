@@ -7,7 +7,7 @@
 ||adjust.world^
 ||analytics.immersivetranslate.com^
 ||analytics.twitter.com^
-||anonymousinfo-*.na-ashburn.myqcloud.com
+||anonymousinfo-*.na-ashburn.myqcloud.com^
 ||api.mac-stats.com^
 ||app-ads-services.com^
 ||appsflyersdk.com^
