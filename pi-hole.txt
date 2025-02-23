@@ -20,6 +20,7 @@
 ||douyinpic.com^
 ||douyinstatic.com^
 ||douyinvod.com^
+||events.backtrace.io^
 ||gga.whoscall.com^
 ||ggp.whoscall.com^
 ||ibytedapm.com^
