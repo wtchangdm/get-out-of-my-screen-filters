@@ -8,6 +8,7 @@
 ||analytics.immersivetranslate.com^
 ||analytics.twitter.com^
 ||anonymousinfo-us-1316693915.cos.na-ashburn.myqcloud.com^
+||api.insiderkit.io^
 ||api.mac-stats.com^
 ||app-ads-services.com^
 ||appsflyersdk.com^
