@@ -17,7 +17,6 @@
 ||byteimg.com^
 ||bytescm.com^
 ||bytetos.com^
-||protechts.net^
 ||douyin.com^
 ||douyincdn.com^
 ||douyinpic.com^
@@ -31,12 +30,14 @@
 ||kdpic.pchome.com.tw^
 ||kimieno.cc^
 ||lan.line.me^
+||litv.tv^
 ||log-collector.shopee.tw^
 ||logs.dradis.netflix.com^
 ||logs.netflix.com^
 ||msn.cn^
-||pixel.dcard.tw^
 ||ntp.msn.com^
+||pixel.dcard.tw^
+||protechts.net^
 ||self.events.data.microsoft.com^
 ||sentry.io^
 ||telemetry.zoom.us^
