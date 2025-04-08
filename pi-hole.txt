@@ -35,6 +35,7 @@
 ||logs.dradis.netflix.com^
 ||logs.netflix.com^
 ||msn.cn^
+||pixel.dcard.tw^
 ||ntp.msn.com^
 ||self.events.data.microsoft.com^
 ||sentry.io^
