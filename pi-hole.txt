@@ -17,6 +17,7 @@
 ||byteimg.com^
 ||bytescm.com^
 ||bytetos.com^
+||protechts.net^
 ||douyin.com^
 ||douyincdn.com^
 ||douyinpic.com^
