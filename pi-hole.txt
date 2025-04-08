@@ -36,6 +36,7 @@
 ||msn.cn^
 ||ntp.msn.com^
 ||self.events.data.microsoft.com^
+||sentry.io^
 ||telemetry.zoom.us^
 ||tiktok.com^
 ||tiktokcdn-eu.com^
