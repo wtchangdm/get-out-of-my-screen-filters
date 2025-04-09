@@ -2,6 +2,7 @@
 ||a.line.me^
 ||ad.ettoday.net^
 ||adapi.mitake.com.tw^
+||adapi.mtkstock.com.tw^
 ||adc.tamedia.com.tw^
 ||adjust.net.in^
 ||adjust.world^
