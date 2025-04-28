@@ -38,6 +38,7 @@
 ||logs.netflix.com^
 ||msn.cn^
 ||ntp.msn.com^
+||otel.gitkraken.com^
 ||pixel.dcard.tw^
 ||protechts.net^
 ||self.events.data.microsoft.com^
