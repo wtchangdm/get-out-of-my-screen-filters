@@ -23,6 +23,7 @@
 ||douyinpic.com^
 ||douyinstatic.com^
 ||douyinvod.com^
+||engage.pchome.com.tw^
 ||events.backtrace.io^
 ||gga.whoscall.com^
 ||ggp.whoscall.com^
