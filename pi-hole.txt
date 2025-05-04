@@ -43,12 +43,14 @@
 ||protechts.net^
 ||self.events.data.microsoft.com^
 ||sentry.io^
+||sentry.pub.jamf.build^
 ||telemetry.zoom.us^
 ||tiktok.com^
 ||tiktokcdn-eu.com^
 ||tiktokcdn-us.com^
 ||tiktokcdn.com^
 ||tiktokv.com^
+||ton.local.twitter.com^
 ||tracking.shopee.tw^
 ||ttwstatic.com^
 ||yhgfb-cn-static.com^
