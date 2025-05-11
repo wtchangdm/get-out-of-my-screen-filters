@@ -11,6 +11,7 @@
 ||anonymousinfo-us-1316693915.cos.na-ashburn.myqcloud.com^
 ||api.insiderkit.io^
 ||api.mac-stats.com^
+||api.quago.io^
 ||app-ads-services.com^
 ||appsflyersdk.com^
 ||bytedance.com^
