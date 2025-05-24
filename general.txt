@@ -20,6 +20,7 @@ ettoday.net###all_300x600_2
 ettoday.net##.idleAd
 inoreader.com##.leaderboard_ad
 mobile01.com##a[href^="adredir"]
+||img.natgeomedia.com/userfiles/images_AD/
 pansci.asia##.ad-container
 www.storm.mg##.article_ads
 www.storm.mg##.storm_ad_h250
