@@ -34,6 +34,7 @@ techbang.com##.techbang_i_m_970x250_1
 techbang.com##.techbang_inline_640x360
 www.thenewslens.com##.ad-section
 wealth.com.tw##.top_ads_box
+||tb-static.uber.com/prod/ads-self-serve/
 tw.dictionary.search.yahoo.com##.sys_dict_native_ads
 
 ! Third Party ads
