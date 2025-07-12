@@ -27,6 +27,7 @@
 ||douyinvod.com^
 ||engage.pchome.com.tw^
 ||events.backtrace.io^
+||faro-collector-ops-eu-south-0.grafana-ops.net^
 ||functional.events.data.microsoft.com^
 ||gga.whoscall.com^
 ||ggp.whoscall.com^
