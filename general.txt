@@ -4,6 +4,7 @@
 ! License: https://github.com/wtchangdm/get-out-of-my-screen-filters/blob/main/LICENSE
 
 ! General ads
+www.cna.com.tw##.fixedBottom
 ctee.com.tw##.ad-h250
 cw.com.tw##.ad
 ||ettoday.net/ad/
