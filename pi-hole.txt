@@ -48,6 +48,7 @@
 ||self.events.data.microsoft.com^
 ||sentry.io^
 ||sentry.pub.jamf.build^
+||telegraph.prd.api.hbomax.com^
 ||telemetry.zoom.us^
 ||tiktok.com^
 ||tiktokcdn-eu.com^
